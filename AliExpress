@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: FilterList for AliExpress
+! Expires: 3 hours (update frequency)
+! GitHub issues: https://github.com/Luspin/uBlock-FilterLists/issues
+! Homepage: N/A
 ! 📦 AliExpress
 aliexpress.com##._3dZQv
 aliexpress.com##._3KrBP
