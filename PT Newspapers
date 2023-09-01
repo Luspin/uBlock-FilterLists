@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: FilterList for PT Newspapers
+! Expires: 3 hours (update frequency)
+! GitHub issues: https://github.com/Luspin/uBlock-FilterLists/issues
+! Homepage: N/A
+! 📰 Newspapers
+||abola.pt/img/premiumdesktop.png$image
+abola.pt##.social
+abola.pt###abola-default-ad
+publico.pt##.article--a
+publico.pt##.menu__greeting
+publico.pt##.non-subscriber-el.subscribe-link.btn--large.btn--subscribe--header.btn
+publico.pt##.shine.weather
+publico.pt##.social-tools
+publico.pt##.subscription-disclaimer
+publico.pt##.tp-container-inner
+publico.pt###disclaimer-inline
+record.pt##.barra_premium.col-12
+record.pt##.capa_e-paper
+record.pt##.eventAnalytics.headerBt_premium
+record.pt##.simplificado_copyright
+record.pt##.social_stick
+record.pt###placeholderAutopromocao
+record.pt###subNewsletter

@@ -1,0 +1,24 @@
+[Adblock Plus 2.0]
+! Title: FilterList for Hattrick.org
+! Expires: 3 hours (update frequency)
+! GitHub issues: https://github.com/Luspin/uBlock-FilterLists/issues
+! Homepage: N/A
+! ⚽ Hattrick
+||static.hattrick-youthclub.org/resources/image/campaign/2022-stop-ukraine-war-now.png$image
+hattrick.org##.adsByGoogle.bannerPanel
+hattrick.org##.bannerBackgroundHeader.bannerPanel
+hattrick.org##.featuresContainer
+hattrick.org##.sidebarSupporterWeekBox.box
+hattrick.org##.start-moreinfo
+hattrick.org##.start-testimonials
+hattrick.org###appleLoginBtn
+hattrick.org###bottom
+hattrick.org###ctl00_CPContent_ucLogin_Panel1 .flex-center.flex
+hattrick.org###ctl00_CPContent_ucLogin_Panel1 > div > div
+hattrick.org###ctl00_ctl00_CPContent_divStartMain .bannerPanel
+hattrick.org###ctl00_ctl00_ucBannerSkyscraper_pnlAds
+hattrick.org###ctl00_ctl00_ucBannerSkyscraper_pnlBanner
+hattrick.org###ctl00_ctl00_ucBannerTop_pnlAds
+hattrick.org###fbLoginBtn
+hattrick.org###footer
+hattrick.org###googleLoginBtn
